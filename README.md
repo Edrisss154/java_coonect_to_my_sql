@@ -6,5 +6,5 @@ The original repository is hosted [sorusham](https://github.com/sorusham).
 
 ## Contribution
 - [sorusham](https://github.com/sorusham).
-- [Edrisss154][Edrisss154](https://github.com/Edrisss154).
+- [Edrisss154](https://github.com/Edrisss154).
 
