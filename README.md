@@ -5,6 +5,6 @@ This is a collaborative project developed by [sorusham](https://github.com/sorus
 The original repository is hosted [sorusham](https://github.com/sorusham).
 
 ## Contribution
-- [sorusham]: (https://github.com/sorusham).
-- [Edrisss154]:[Edrisss154](https://github.com/Edrisss154).
+- [sorusham](https://github.com/sorusham).
+- [Edrisss154][Edrisss154](https://github.com/Edrisss154).
 
