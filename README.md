@@ -7,8 +7,6 @@ The original repository is hosted [here](https://github.com/sorusham/java_coonec
 - [sorusham](https://github.com/sorusham)
 - [Edrisss154](https://github.com/Edrisss154). 
 
-## How to Use
-[Add usage instructions or just reference the original repository.]
 
 <h1 align="center">java coonect to my sql</h1>
 
